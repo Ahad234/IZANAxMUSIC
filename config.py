@@ -19,7 +19,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 # Vars For API End Pont.
 API_URL = os.getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-VIDEO_API_URL = os.getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
+VIDEO_API_URL = os.getenv("VIDEO_API_URL", "https://api.video.thequickearn.xyz")
 API_KEY = os.getenv("API_KEY", "30DxNexGenBots121b50")
 
 ## Other vaes
